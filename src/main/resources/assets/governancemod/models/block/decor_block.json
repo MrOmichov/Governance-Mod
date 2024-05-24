@@ -1,5 +1,6 @@
 {
   "parent": "minecraft:block/cube_all",
+  "credit": "Made with Blockbench",
   "textures": {
     "all": "governancemod:block/decor_block"
   }
